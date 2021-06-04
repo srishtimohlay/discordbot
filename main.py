@@ -25,4 +25,4 @@ async def hello(ctx):
     await ctx.send(f"hello, {ctx.author.mention}")
 
 
-client.run('TOCKEN')
+client.run('TOKEN')
